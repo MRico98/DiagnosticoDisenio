@@ -1,0 +1,4 @@
+Mecanica,Maestro Nuevo
+Programacion,Pepelotas Peres
+Fisica,Silla Cuarto
+Conocimiento,Zim Arturo Invasor

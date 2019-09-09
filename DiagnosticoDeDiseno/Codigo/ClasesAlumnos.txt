@@ -1,0 +1,4 @@
+Mecanica,Manuel,
+Programacion,JorgeArmando,
+Fisica,Oscar,
+Conocimiento,Zeus,
